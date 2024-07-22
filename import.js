@@ -8,6 +8,10 @@ window.OrbitControls = OrbitControls.OrbitControls;
 import * as FontLoader from 'three/addons/loaders/FontLoader.js';
 window.FontLoader = FontLoader.FontLoader;
 
+
+import * as GLTFLoader from 'three/addons/loaders/GLTFLoader.js';
+window.GLTFLoader = GLTFLoader.GLTFLoader;
+
 import * as TextGeometry from 'three/addons/geometries/TextGeometry.js';
 window.TextGeometry = TextGeometry.TextGeometry;
 

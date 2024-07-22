@@ -1,3 +1,13 @@
+/*
+let importmap = {
+	"imports": {
+		"three": "../threejs/build/three.module.js",
+		"three/addons/": "../threejs/examples/jsm/",
+		"three-mesh-bvh": "../threejs/plugins/three-mesh-bvh.module.js",
+		"three-bvh-csg": "../threejs/plugins/three-bvh-csg.module.js"
+	}
+};
+*/
 let importmap = {
 	"imports": {
 		"three": "https://lightcdn.github.io/threejs/build/three.module.js",
